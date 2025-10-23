@@ -93,6 +93,6 @@ Para que você possa ter um **deslumbre do site**, mesmo sem hospedagem online, 
 
 ### Prints
 
-![Home Page](assets/Homept1.png)  
-![Artigos e Insights](assets/Artigos.png)  
-![Contato](assets/Contato.png)
+![Home Page](assets/homept1.png)  
+![Artigos e Insights](assets/artigos.png)  
+![Contato](assets/contato.png)
