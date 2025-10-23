@@ -87,7 +87,12 @@ Embora seja um **projeto de demonstração**, ele representa fielmente como eu a
 
 ---
 
-## 🌐 Links
+## 🖼️ Visualização do Projeto
 
-- [Demonstração local ou vídeo do projeto]  
-- [Repositório do GitHub](https://github.com/SeuUsuario/code-insight)
+Para que você possa ter um **deslumbre do site**, mesmo sem hospedagem online, incluí prints das principais páginas e um vídeo demonstrativo do funcionamento:
+
+### Prints
+
+![Home Page](assets/Homept1.png)  
+![Artigos e Insights](assets/Artigos.png)  
+![Contato](assets/Contato.png)
