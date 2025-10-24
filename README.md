@@ -89,7 +89,13 @@ Embora seja um **projeto de demonstração**, ele representa fielmente como eu a
 
 ## 🖼️ Visualização do Projeto
 
-Para que você possa ter um **deslumbre do site**, mesmo sem hospedagem online, incluí prints das principais páginas e um vídeo demonstrativo do funcionamento:
+Para que você possa ter um **deslumbre do site**, mesmo sem hospedagem online, incluí prints e gifs das principais páginas e efeitos, Veja todos nas pastas nomeadas de acordo:
+
+### Vídeo Demonstrativo
+
+[Efeito Paralax](gifs/efeitoparalax.gif)
+[Sombreamento tech](gifs/effectshome.gif)
+[Efeitos hover em ícones](gifs/hovericons.gif)
 
 ### Prints
 
