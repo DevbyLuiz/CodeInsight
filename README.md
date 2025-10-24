@@ -91,14 +91,27 @@ Embora seja um **projeto de demonstração**, ele representa fielmente como eu a
 
 Para que você possa ter um **deslumbre do site**, mesmo sem hospedagem online, incluí prints e gifs das principais páginas e efeitos, Veja todos nas pastas nomeadas de acordo:
 
-### Gifs Demonstrativos
+### 🎥 Gifs Demonstrativos
 
-(gifs/efeitoparalax.gif)
-(gifs/effectshome.gif)
-(gifs/hovericons.gif)
+#### Efeito Parallax
+![Efeito Parallax](gifs/efeitoparalax.gif)
+
+
+#### Sombreamento Tech
+![Sombreamento Tech](gifs/effectshome.gif)
+
+
+
+
+#### Hover nos Ícones
+![Efeito Hover nos Ícones](gifs/hovericons.gif)
 
 ### Prints
 
-![Home Page](assets/homept1.png)  
+![Home Page](assets/homept1.png) 
+
+
 ![Artigos e Insights](assets/artigos.png)  
+
+
 ![Contato](assets/contato.png)
